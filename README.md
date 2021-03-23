@@ -11,9 +11,9 @@ Any and all issues you may run into with Revity software we request you properly
 
 # Template
 
-*Skip out on classified/redacted information. Simply put the text *_redacted_.
+*Skip out on classified/redacted information. Simply put the text [redacted].*
 
-**Reporter:** 
+**Reporter:**
 Who is reporting this? Please include discord name for possible contact
 
 **Summary:**
