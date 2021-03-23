@@ -11,8 +11,7 @@ Any and all issues you may run into with Revity software we request you properly
 
 # Template
 
-*Skip out on classified/redacted information. Simply put the text [redacted].*
-
+*Skip out on classified/redacted information. Simply put the text [redacted]. Your discord does not count as classified.*
 **Reporter:**
 Who is reporting this? Please include discord name for possible contact
 
