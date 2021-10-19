@@ -1,4 +1,4 @@
-# Revity Development Issue Tracker
+# Revity Studios Issue Tracker
 Revity's main goal is to provide a fully functional, elite and affordable plugins for players of all kinds to call home. We have highly advanced and developed features.
 
 All development is done by the members you can see on our page. No development is rushed, and it is overlooked to make sure it is done properly and thoroughly. We push regular updates introducing new features, bug fixes and balance changes regularly.
